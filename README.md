@@ -1,7 +1,15 @@
-# P-s-aula-ponteiros
+# P-s-aula-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  #include<stdlib.h>
- #include<stdio.h>
-
+  #include<stdio.h>
 //Exercicio LETRA A código feito e compilado como pedido
 int main (void){
 	int x = 2, y = 3;  //Exercicío LETRA B resposta: Não são variáveis do tipo ponteiro, se fosse teria que está sendo declarada int *px = 2, *py = 3
