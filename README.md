@@ -1,8 +1,6 @@
 # P-s-aula-ponteiros
-Exercício pós aula 02 AED Ponteiros 
-Algoritmo Estrutura de Dados
  #include<stdlib.h>
-#include<stdio.h>
+ #include<stdio.h>
 
 //Exercicio LETRA A código feito e compilado como pedido
 int main (void){
@@ -48,3 +46,4 @@ int main (void){
 	
 	
 }
+ 
